@@ -5,7 +5,7 @@
     "manufacturer": "Ladis",
     "usb": {
         "pid": "0x6060",
-        "vid": "0xFEED",
+        "vid": "0x4C50",
         "device_version": "0.0.1"
     },
     "features": {
